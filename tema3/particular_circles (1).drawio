@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-05-16T17:38:19.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="O3S7pEzKS7uESisK9DqF" version="21.2.9" type="device">
+  <diagram name="Page-1" id="4x_IwVmQRywMBN9IQDRY">
+    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-1" target="NL2aHvtu-k-K4IVIFhte-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="20" width="76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-2" target="NL2aHvtu-k-K4IVIFhte-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-2" value="Press button to see particular circle" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="342" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-4" target="NL2aHvtu-k-K4IVIFhte-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-4" target="NL2aHvtu-k-K4IVIFhte-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-4" value="Is polygon on canvas?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="332" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-7" target="NL2aHvtu-k-K4IVIFhte-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-7" value="Display error" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="122" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-10" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-12" target="NL2aHvtu-k-K4IVIFhte-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-12" target="NL2aHvtu-k-K4IVIFhte-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-12" value="Is polygon inscribed (circumscribed)?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="552" y="390" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-16" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="472" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-18" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-19" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="282" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NL2aHvtu-k-K4IVIFhte-21" target="NL2aHvtu-k-K4IVIFhte-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-21" value="Draw correspondent circle" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="707" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NL2aHvtu-k-K4IVIFhte-24" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="727" y="610" width="80" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,350 @@
+Qual è la superficie di un disco che ha il raggio uguale a PI?
+EASY
+PI^3
+2PI
+10
+PI^2+2PI+1
+
+Qual è la superficie di un disco che ha il raggio uguale a 10?
+EASY
+100PI
+10
+PI+10
+10/PI
+
+Qual è la superficie di un disco che ha il raggio pari a 12,5?
+EASY
+156,25PI
+25PI
+25PI^2
+25/2PI
+
+Qual è il raggio di un cerchio che ha la superficie uguale a 64*PI?
+MEDIUM
+8
+32
+2
+8PI
+
+Qual è il raggio di un cerchio che ha la superficie uguale a PI^5?
+MEDIUM
+PI^2
+1/PI
+Pi greco
+e^2
+
+Qual è il raggio di un cerchio che ha la superficie uguale a 36?
+MEDIUM
+6/sqrt (PI)
+6
+6PI
+3PI^-1
+
+Qual è la linea che interseca un cerchio in un punto chiamato?
+EASY
+tangente
+parallelo
+Singleton
+Impigliato
+
+Qual è la linea che interseca un cerchio in due punti chiamata?
+EASY
+secante
+tangente
+perpendicolare
+bilaterale
+
+Qual è la linea che interseca un cerchio in nessun punto chiamato?
+EASY
+esterno
+tangente
+Estrapolato
+parallelo
+
+Qual è la proprietà di una tangente al cerchio?
+MEDIUM
+È perpendicolare al raggio.
+Interseca il cerchio in due punti.
+Passa attraverso il centro del cerchio.
+La sua equazione è sempre x=0.
+
+Qual è il valore del diametro di un cerchio di raggio r?
+EASY
+2 * r
+r^2
+4R/5
+PI*r
+
+Qual è il valore del rapporto tra la lunghezza e il diametro di un cerchio?
+EASY
+Pi greco
+e
+La sezione aurea
+1
+
+Qual è l''equazione di un cerchio che ha l''origine nell''origine del sistema xOy e del raggio r?
+HARD
+x^2+y^2=r^2
+(x-y)^2=r
+x^2+y^2=2r
+x^2-y^2=r
+
+Qual è l''equazione di un cerchio che ha l''origine nell''origine del sistema xOy e del raggio 5?
+HARD
+x^2+y^2=25
+(x-5y)^2=5
+x^2+y^2=10
+(x/5)^2-(y/5)^2=5
+
+Qual è l''equazione di un cerchio che ha origine nel sistema di punto P(3,-5) e il raggio 1?
+HARD
+(x-3)^2+(y+5)^2=1
+(x+3)^2+(y-5)^2=1
+3x^2-5y^2+1=0
+(x-y)^3=1/(-5)
+
+Qual è il valore del diametro di un cerchio di raggio 8?
+EASY
+16
+2
+4
+4PI
+
+Qual è il valore del diametro di un cerchio di raggio 1?
+EASY
+2
+1
+0.5
+Pi greco
+
+Quanto costa l''angolo di un cerchio?
+EASY
+360 gradi
+Gradi PI
+1 grado
+180 gradi
+
+Qual è la superficie di una sezione di un cerchio di raggio 5 e un angolo di 60 gradi?
+HARD
+25*PI/6
+5PI/36
+PI^2/360
+25/60
+
+Qual è la superficie di una sezione di un cerchio di raggio 5 e un angolo di 180 gradi?
+HARD
+25*PI/2
+25/2
+45
+45PI
+
+Come si chiama un settore di un cerchio di 180 gradi?
+MEDIUM
+semicerchio
+Circolo mediano
+settore
+mezzo anello
+
+Qual è il valore dell''angolo all''origine rispetto al suo arco corrispondente?
+MEDIUM
+lo stesso valore
+raddoppiare il valore
+arco+180
+metà del valore
+
+Qual è il valore dell''angolo sul cerchio w.r.t. il suo arco corrispondente?
+MEDIUM
+metà del valore
+raddoppiare il valore
+lo stesso valore
+arc^2/360
+
+Nella figure seguente, il cerchio del centro O1 ha un raggio di 3 cm e il cerchio del centro O2 di 7 cm. Qual è la lunghezza di O1O2?
+HARD
+10 cm
+4 cm
+8 cm
+11,5 cm
+figure1.png
+Nella figure seguente, il cerchio del centro O1 ha un raggio di 5 cm e il cerchio del centro O2 di 14 cm. Qual è la lunghezza di O1O2?
+HARD
+9 centimetri
+19 centimetri
+10 cm
+4 cm
+figure2.png
+Nella figure seguente, le tangenti t1 e t2 intersecano il cerchio rispettivamente in T1 e T2. Qual è la relazione tra AT1 e AT2?
+HARD
+AT1=AT2
+AT1 è perpendicolare su AT2
+AT1 || AT2
+AT1+AT2=2R, dove R è il raggio del cerchio
+figure3.png
+In un triangolo equilatero, il raggio del cerchio inscritto ha la seguente formula (a rappresenta la lunghezza dei lati):
+HARD
+a*sqrt(3)/6
+a^2*sqrt(3)/4
+a^2*sqrt(6)/2
+A/2
+
+In un triangolo equilatero, il raggio del cerchio circoscritto ha la seguente formula:
+HARD
+a*sqrt(3)/3
+2a/3
+a^2*sqrt(3)/4
+a*sqrt(3)/4
+
+I mediatori d1 e d2 di un triangolo DEF si intersecano nel punto B. Quale proprietà ha il punto B?
+EASY
+È il centro del cerchio circoscritto corrispondente al DEF.
+È il centro del corrispondente del cerchio inscritto al DEF.
+È il centro della linea EF.
+È il centroide del triangolo DEF.
+
+Le bisettrici AA1 e BB1 del triangolo ABC si intersecano nel punto S. Quale proprietà ha il punto S?
+EASY
+È il centro del corrispondente del cerchio inscritto alla ABC.
+È il centro del cerchio circoscritto corrispondente alla ABC.
+È il punto finale della mediana che inizia da C.
+Cade sempre sul lato BC.
+
+La frase che descrive correttamente la relazione tra i cerchi nell''immagine seguente è:
+MEDIUM
+I cerchi sono esternamente tangenti.
+I cerchi sono internamente tangenti.
+I cerchi hanno due punti in comune.
+I cerchi sono esterni l''uno all''altro.
+figure10.png
+La frase che descrive correttamente la relazione tra i cerchi nell''immagine seguente è:
+MEDIUM
+I cerchi sono secanti.
+I cerchi sono internamente tangenti.
+I cerchi non hanno punti comuni.
+I cerchi hanno lo stesso centro.
+figure11.png
+La frase che descrive correttamente la relazione tra i cerchi nell''immagine seguente è:
+MEDIUM
+I cerchi sono concentrici.
+L''anello ha la superficie uguale a 0.
+I cerchi hanno superfici uguali.
+I cerchi sono internamente tangenti.
+figure12.png
+La frase che descrive correttamente la relazione tra i cerchi nell''immagine seguente è:
+MEDIUM
+I cerchi sono internamente tangenti.
+I cerchi sono esternamente tangenti.
+I cerchi hanno raggi uguali.
+I cerchi non sono sullo stesso piano.
+figure13.png
+La frase che descrive correttamente la relazione tra la linea e il cerchio sottostante è:
+MEDIUM
+La linea è tangente al cerchio.
+La linea è parallela al cerchio.
+La linea e il cerchio non sono complanari.
+La linea e il cerchio non hanno punti in comune.
+figure7.png
+La frase che descrive correttamente la relazione tra la linea e il cerchio sottostante è:
+MEDIUM
+La linea è secante al cerchio.
+La linea è esterna al cerchio.
+La linea e il cerchio hanno un''infinità di punti in comune.
+La linea determina tre settori nel cerchio.
+figure8.png
+Le parole che completano correttamente la frase "Un _________ è un caso particolare di __________ che passa attraverso il centro del cerchio." è:
+EASY
+diametro, accordo
+raggio, accordo
+corda, diametro
+raggio, diametro
+
+Quanti assi di simmetria ha un cerchio?
+EASY
+infinità
+8
+1
+4
+
+Qual è il valore dell''angolo BAC nella figureseguente, dato che BC è un diametro?
+MEDIUM
+90 gradi
+60 gradi
+180 gradi
+75 gradi
+figure4.png
+Qual è il valore dell''angolo ABC nella figureseguente, dato che BC è un diametro e AB = AC?
+MEDIUM
+45 gradi
+30 gradi
+90 gradi
+80 gradi
+
+Qual è la relazione tra un triangolo e il suo cerchio?
+MEDIUM
+I lati sono tangenti al cerchio.
+I lati sono secanti al cerchio.
+Hanno lo stesso perimetro.
+L''area del cerchio è metà dell''area del triangolo.
+
+Se il DEFG è un quadrilatero circoscritto, qual è il rapporto tra le sue parti?
+HARD
+DE+FG=DG+EF
+DE-FG=DG-EF
+DE+FG+DG=EF
+DE=FG/2,EF/2=DG
+
+Se XYZW è un quadrilatero circoscritto, qual è la relazione tra i suoi angoli?
+HARD
+X+Z=Y+W
+X*Y=Z*W
+X-Y=Z-W
+X+Y+Z+W=180
+
+Come vengono chiamati due cerchi che hanno lo stesso centro?
+MEDIUM
+concentrico
+perpendicolare
+interpolato
+focalizzato
+
+Nella figureseguente, il colore rosso indica un _________, il colore verde un _________ e il colore blu un _________.
+EASY
+accordo, settore, segmento
+diametro, segmento, semicerchio
+accordo, fetta, segmento
+segmento,accordo,settore
+figure6.png
+Qual è il nome dell''area delimitata da due cerchi concentrici?
+HARD
+anello
+Ciambella
+anello
+ellisse
+
+Qual è il raggio e la direzione del cerchio trigonometrico?
+HARD
+r=1,in senso antiorario
+r=pi, in senso orario
+r=1,in senso orario
+r = cot (PI), in senso antiorario
+
+Se il raggio di un cerchio viene aumentato di quattro volte, quante volte aumenta l''area?
+HARD
+16 volte
+2 volte
+4 volte
+8 volte
+
+Se il raggio di un cerchio viene ridotto tre volte, quante volte diminuisce l''area?
+HARD
+9 volte
+3 volte
+27 volte
+2 volte
+
+La frase che descrive correttamente la relazione tra la linea e il cerchio sottostante è:
+MEDIUM
+La linea è esterna al cerchio.
+La linea è parallela al cerchio.
+Il cerchio e la linea non sono complanari.
+La linea e il cerchio hanno almeno un punto in comune.
+figure9.png

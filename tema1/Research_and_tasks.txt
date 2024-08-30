@@ -1,0 +1,109 @@
+Use cases:
+
+New student can:
+- draw a circle
+- ask for circle radius
+- ask for circle surface
+- ask for circle length
+- draw a sector in circle
+- ask for sector length
+- ask for sector surface
+- draw a polygon
+- see circumscribed circle of polygon (if possible)
+- see inscribed circle of polygon (if possible)
+- solicit an account
+
+Logged in student can:
+- take a test
+- answer questions
+- get a mark
+- see previous results in account page
+
+Admin can:
+- visualize logged in students
+- delete a student account
+- create a student account
+- update a student account
+- visualize a student account
+
+DESIGN IDEA:
+Main window
+	Up: if logged in, student name displayed, otherwise message: "You are not logged in yet."
+	Central: 
+		- canvas
+		- left: Jslider vertical, for brush stroke; brush color options: red, green, blue, black, orange; combobox for line dash
+	Down:
+		- left
+        
+COLORS (from light to dark):
+#E3F2FD
+#BBDEFB
+#90CAF9
+#64B5F6
+#42A5F5
+#2196F3
+#1E88E5
+#1976D2
+#1565C0
+#0D47A1
+
+TODO:
+1. Think about necessary classes and apply SOLID principles to establish relations.
+2. Create class diagram and package diagram for application
+
+Questions
+1. Can I create the connection to the questions database inside the quiz constructor or should I create it separately and then retrieve in the constructor the entries from the database?
+2. Where should I create a method such that the quiz generated is uniform?
+3. Confirm password?
+
+QUIZ
+1. What is the surface of a disk that has the radius equal to PI?
+2. What is the surface of a disk that has the radius equal to 10?
+3. What is the surface of a disk that has the radius equal to 12.5?
+4. What is the radius of a circle that has the surface equal to 64*PI?
+5. What is the radius of a circle that has the surface equal to PI^5?
+6. What is the radius of a circle that has the surface equal to 36?
+7. What is the line that intersects a circle in one point called?
+8. What is the line that intersects a circle in two points called?
+9. What is the line that intersects a circle in no points called?
+10. What is the property of a tangent to the circle?
+11. What is the value of the diameter of a circle of radius r?
+12. What is the value of the ratio between the length and the diameter of a circle?
+13. What is the equation of a circle that has the origin in the origin of the xOy system and the radius r?
+14. What is the equation of a circle that has the origin in the origin of the xOy system and the radius 5?
+15. What is the equation of a circle that has the origin at the point P(3,-5) system and the radius 1?
+16. What is the value of the diameter of a circle of radius 8?
+17. What is the value of the diameter of a circle of radius 1?
+18. How much is the angle of a circle?
+19. What is the surface of a section of a circle of radius 5 and an angle of 60 degrees?
+20. What is the surface of a section of a circle of radius 5 and an angle of 180 degrees?
+21. What is a sector of a circle of 180 degrees called?
+22. What is the value of the angle at origin w.r.t. its correspondent arc?
+23. What is the value of the angle on the circle w.r.t. its correspondent arc?
+24. In the figure below, the circle of center O1 has a radius of 3 cm and the circle of center O2 of 7 cm. What is the length of O1O2? 
+25. In the figure below, the circle of center O1 has a radius of 5 cm and the circle of center O2 of 14 cm. What is the length of O1O2? 
+26. In the figure below, the tangents t1 and t2 intersect the circle in T1 and T2, respectively. What is the relationship between AT1 and AT2?
+27. In an equilateral triangle, the radius of the inscribed circle has the following formula:
+28. In an equilateral triangle, the radius of the circumscribed circle has the following formula:
+29. Mediators d1 and d2 of the triangle below intersect at point B. What property point B has?
+30. Bisectors AA' and BB' of the triangle below intersect at point S. What property point S has?
+31. The phrase that correctly describes the relationship between the circles in the image below is:
+32. The phrase that correctly describes the relationship between the circles in the image below is:
+33. The phrase that correctly describes the relationship between the circles in the image below is:
+34. The phrase that correctly describes the relationship between the circles in the image below is:
+35. The phrase that correctly describes the relationship between the line and the circle below is:
+36. The phrase that correctly describes the relationship between the line and the circle below is:
+37. The phrase that correctly describes the relationship between the line and the circle below is:
+38. The words that correctly complete the phrase 'A _________ is a particular case of __________ which passes through the center of the circle.' is:
+39. How many symmetry axes does a circle have?
+40. What is the value of the angle BAC in the figure below, given that BC is a diameter?
+41. What is the value of the angle ABC in the figure below, given that BC is a diameter? 
+42. What is the relationship between the lines of a triangle and its incircle?
+43. If DEFG is a circumscribed quadrilateral, what is the relationship between its sides?
+44. If XYZW is a circumscribed quadrilateral, what is the relationship between its angles?
+45. How are two circles that have the same center called?
+46. In the figure below, color red marks a _________, color green a _________, and color blue a _________.
+47. What is the name for the area delimited by two concentric circles?
+48. What is the radius and the direction of the trygonometric circle?
+49. If the radius of a circle is increased four times, how many times does the area increases?
+50. If the radius of a circle is decreased three times, how many times does the area decreases?

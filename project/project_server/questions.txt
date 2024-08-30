@@ -1,0 +1,350 @@
+What is the surface of a disk that has the radius equal to PI?
+EASY
+PI^3
+2PI
+10
+PI^2+2PI+1
+
+What is the surface of a disk that has the radius equal to 10?
+EASY
+100PI
+10
+PI+10
+10/PI
+
+What is the surface of a disk that has the radius equal to 12.5?
+EASY
+156.25PI
+25PI
+25PI^2
+25/2PI
+
+What is the radius of a circle that has the surface equal to 64*PI?
+MEDIUM
+8
+32
+2
+8PI
+
+What is the radius of a circle that has the surface equal to PI^5?
+MEDIUM
+PI^2
+1/PI
+PI
+e^2
+
+What is the radius of a circle that has the surface equal to 36?
+MEDIUM
+6/sqrt(PI)
+6
+6PI
+3PI^-1
+
+What is the line that intersects a circle in one point called?
+EASY
+tangent
+parallel
+singleton
+entangled
+
+What is the line that intersects a circle in two points called?
+EASY
+secant
+tangent
+perpendicular
+bilateral
+
+What is the line that intersects a circle in no points called?
+EASY
+external
+tangent
+extrapolated
+parallel
+
+What is the property of a tangent to the circle?
+MEDIUM
+It is perpendicular to the radius.
+It intersects the circle in two points.
+It passes through the middle of the circle.
+Its equation is always x=0.
+
+What is the value of the diameter of a circle of radius r?
+EASY
+2*r
+r^2
+4r/5
+PI*r
+
+What is the value of the ratio between the length and the diameter of a circle?
+EASY
+PI
+e
+the golden ratio
+1
+
+What is the equation of a circle that has the origin in the origin of the xOy system and the radius r?
+HARD
+x^2+y^2=r^2
+(x-y)^2=r
+x^2+y^2=2r
+x^2-y^2=r
+
+What is the equation of a circle that has the origin in the origin of the xOy system and the radius 5?
+HARD
+x^2+y^2=25
+(x-5y)^2=5
+x^2+y^2=10
+(x/5)^2-(y/5)^2=5
+
+What is the equation of a circle that has the origin at the point P(3,-5) system and the radius 1?
+HARD
+(x-3)^2+(y+5)^2=1
+(x+3)^2+(y-5)^2=1
+3x^2-5y^2+1=0
+(x-y)^3=1/(-5)
+
+What is the value of the diameter of a circle of radius 8?
+EASY
+16
+2
+4
+4PI
+
+What is the value of the diameter of a circle of radius 1?
+EASY
+2
+1
+0.5
+PI
+
+How much is the angle of a circle?
+EASY
+360 degrees
+PI degrees
+1 degree
+180 degrees
+
+What is the surface of a section of a circle of radius 5 and an angle of 60 degrees?
+HARD
+25*PI/6
+5PI/36
+PI^2/360
+25/60
+
+What is the surface of a section of a circle of radius 5 and an angle of 180 degrees?
+HARD
+25*PI/2
+25/2
+45
+45PI
+
+What is a sector of a circle of 180 degrees called?
+MEDIUM
+semicircle
+median circle
+sector
+half ring
+
+What is the value of the angle at origin w.r.t. its correspondent arc?
+MEDIUM
+the same value
+double the value
+arc+180
+half of the value
+
+What is the value of the angle on the circle w.r.t. its correspondent arc?
+MEDIUM
+half of the value
+double the value
+the same value
+arc^2/360
+
+In the figure below, the circle of center O1 has a radius of 3 cm and the circle of center O2 of 7 cm. What is the length of O1O2? 
+HARD
+10 cm
+4 cm
+8 cm
+11.5 cm
+figure1.png
+In the figure below, the circle of center O1 has a radius of 5 cm and the circle of center O2 of 14 cm. What is the length of O1O2? 
+HARD
+9 cm
+19 cm
+10 cm
+4 cm
+figure2.png
+In the figure below, the tangents t1 and t2 intersect the circle in T1 and T2, respectively. What is the relationship between AT1 and AT2?
+HARD
+AT1=AT2
+AT1 is perpendicular on AT2
+AT1 || AT2
+AT1+AT2=2R, where R is the radius of the circle
+figure3.png
+In an equilateral triangle, the radius of the inscribed circle has the following formula (a represents the length of the sides):
+HARD
+a*sqrt(3)/6
+a^2*sqrt(3)/4
+a^2*sqrt(6)/2
+a/2
+
+In an equilateral triangle, the radius of the circumscribed circle has the following formula:
+HARD
+a*sqrt(3)/3
+2a/3
+a^2*sqrt(3)/4
+a*sqrt(3)/4
+
+Mediators d1 and d2 of a triangle DEF intersect at point B. What property point B has?
+EASY
+It is the center of the circumscribed circle correspondent to DEF.
+It is the center of the inscribed circle correspondent to DEF.
+It is the middle of the line EF.
+It is the centroid of the triangle DEF.
+
+Bisectors AA1 and BB1 of the triangle ABC intersect at point S. What property point S has?
+EASY
+It is the center of the inscribed circle correspondent to ABC.
+It is the center of the circumscribed circle correspondent to ABC.
+It is the end point of the median starting at C.
+It always falls on the BC side.
+
+The phrase that correctly describes the relationship between the circles in the image below is:
+MEDIUM
+The circles are externally tangent.
+The circles are internally tangent.
+The circles have two common points.
+The circles are external to each other.
+figure10.png
+The phrase that correctly describes the relationship between the circles in the image below is:
+MEDIUM
+The circles are secant.
+The circles are internally tangent.
+The circles do not have common points.
+The circles have the same center.
+figure11.png
+The phrase that correctly describes the relationship between the circles in the image below is:
+MEDIUM
+The circles are concentric.
+The annulus has the surface equal to 0.
+The circles have equal surfaces.
+The circles are internally tangent.
+figure12.png
+The phrase that correctly describes the relationship between the circles in the image below is:
+MEDIUM
+The circles are internally tangent.
+The circles are externally tangent.
+The circles have equal radii.
+The circles are not in the same plane.
+figure13.png
+The phrase that correctly describes the relationship between the line and the circle below is:
+MEDIUM
+The line is tangent to the circle.
+The line is parallel to the circle.
+The line and the circle are non-coplanar.
+The line and the circle have no common points.
+figure7.png
+The phrase that correctly describes the relationship between the line and the circle below is:
+MEDIUM
+The line is secant to the circle.
+The line is external to the circle.
+The line and the circle have an infinity of common points.
+The line determines three sectors in the circle.
+figure8.png
+The words that correctly complete the phrase `A _________ is a particular case of __________ which passes through the center of the circle.` is:
+EASY
+diameter, chord
+radius, chord
+chord, diameter
+radius, diameter
+
+How many symmetry axes does a circle have?
+EASY
+infinity
+8
+1
+4
+
+What is the value of the angle BAC in the figure below, given that BC is a diameter?
+MEDIUM
+90 degrees
+60 degrees
+180 degrees
+75 degrees
+figure4.png
+What is the value of the angle ABC in the figure below, given that BC is a diameter, and AB=AC?
+MEDIUM
+45 degrees
+30 degrees
+90 degrees
+80 degrees
+figure5.png
+What is the relationship between a triangle and its incircle?
+MEDIUM
+The sides are tangent to the circle.
+The sides are secant to the circle.
+They have the same perimeter.
+The area of the circle is half the area of the triangle.
+
+If DEFG is a circumscribed quadrilateral, what is the relationship between its sides?
+HARD
+DE+FG=DG+EF
+DE-FG=DG-EF
+DE+FG+DG=EF
+DE=FG/2,EF/2=DG
+
+If XYZW is a circumscribed quadrilateral, what is the relationship between its angles?
+HARD
+X+Z=Y+W
+X*Y=Z*W
+X-Y=Z-W
+X+Y+Z+W=180
+
+How are two circles that have the same center called?
+MEDIUM
+concentric
+perpendicular
+interpolated
+focused
+
+In the figure below, color red marks a _________, color green a _________, and color blue a _________.
+EASY
+chord,sector,segment
+diameter,segment,semicircle
+chord,slice,segment
+segment,chord,sector
+figure6.png
+What is the name for the area delimited by two concentric circles?
+HARD
+annulus
+donut
+ring
+ellipse
+
+What is the radius and the direction of the trygonometric circle?
+HARD
+r=1,counterclockwise
+r=pi,clockwise
+r=1,clockwise
+r=cot(PI),counterclockwise
+
+If the radius of a circle is increased four times, how many times does the area increases?
+HARD
+16 times
+2 times
+4 times
+8 times
+
+If the radius of a circle is decreased three times, how many times does the area decreases?
+HARD
+9 times
+3 times
+27 times
+2 times
+
+The phrase that correctly describes the relationship between the line and the circle below is:
+MEDIUM
+The line is external to the circle.
+The line is parallel to the circle.
+The circle and the line are non-coplanar.
+The line and the circle have at least one common point.
+figure9.png

@@ -1,0 +1,350 @@
+¿Cuál es la superficie de un disco que tiene un radio igual a PI?
+EASY
+PI^3
+2PI
+10
+PI^2+2PI+1
+
+¿Cuál es la superficie de un disco que tiene un radio igual a 10?
+EASY
+100PI
+10
+PI+10
+10/PI
+
+¿Cuál es la superficie de un disco que tiene un radio igual a 12,5?
+EASY
+156,25PI
+25PI
+25PI^2
+25/2PI
+
+¿Cuál es el radio de un círculo que tiene una superficie igual a 64*PI?
+MEDIUM
+8
+32
+2
+8PI
+
+¿Cuál es el radio de un círculo que tiene una superficie igual a PI^5?
+MEDIUM
+PI^2
+1/PI
+PI
+e^2
+
+¿Cuál es el radio de un círculo que tiene una superficie igual a 36?
+MEDIUM
+6/sqrt(PI)
+6
+6PI
+3PI^-1
+
+¿Cómo se llama la línea que cruza un círculo en un punto?
+EASY
+tangente
+paralelo
+Singleton
+Enredado
+
+¿Cómo se llama la línea que cruza un círculo en dos puntos?
+EASY
+secante
+tangente
+perpendicular
+bilateral
+
+¿Cuál es la línea que cruza un círculo en ningún punto llamado?
+EASY
+externo
+tangente
+Extrapolado
+paralelo
+
+¿Cuál es la propiedad de una tangente al círculo?
+MEDIUM
+Es perpendicular al radio.
+Interseca el círculo en dos puntos.
+Pasa por el centro del círculo.
+Su ecuación es siempre x=0.
+
+¿Cuál es el valor del diámetro de un círculo de radio r?
+EASY
+2*r
+r^2
+4r/5
+PI*r
+
+¿Cuál es el valor de la relación entre la longitud y el diámetro de un círculo?
+EASY
+PI
+y
+La proporción áurea
+1
+
+¿Cuál es la ecuación de un círculo que tiene el origen en el origen del sistema xOy y el radio r?
+HARD
+x^2+y^2=r^2
+(x-y)^2=r
+x^2+y^2=2r
+x^2-y^2=r
+
+¿Cuál es la ecuación de un círculo que tiene el origen en el origen del sistema xOy y el radio 5?
+HARD
+x^2+y^2=25
+(x-5y)^2=5
+x^2+y^2=10
+(x/5)^2-(y/5)^2=5
+
+¿Cuál es la ecuación de un círculo que tiene el origen en el sistema de punto P(3,-5) y el radio 1?
+HARD
+(x-3)^2+(y+5)^2=1
+(x+3)^2+(y-5)^2=1
+3x^2-5y^2+1=0
+(x-y)^3=1/(-5)
+
+¿Cuál es el valor del diámetro de un círculo de radio 8?
+EASY
+16
+2
+4
+4PI
+
+¿Cuál es el valor del diámetro de un círculo de radio 1?
+EASY
+2
+1
+0.5
+PI
+
+¿Cuánto es el ángulo de un círculo?
+EASY
+360 grados
+Grados PI
+1 grado
+180 grados
+
+¿Cuál es la superficie de una sección de un círculo de radio 5 y un ángulo de 60 grados?
+HARD
+25*PI/6
+5PI/36
+PI^2/360
+25/60
+
+¿Cuál es la superficie de una sección de un círculo de radio 5 y un ángulo de 180 grados?
+HARD
+25*PI/2
+25/2
+45
+45PI
+
+¿Cómo se llama un sector de un círculo de 180 grados?
+MEDIUM
+semicírculo
+círculo mediano
+sector
+MEDIUM anillo
+
+¿Cuál es el valor del ángulo en origen con su arco correspondiente?
+MEDIUM
+el mismo valor
+Duplicar el valor
+ARCO+180
+La mitad del valor
+
+¿Cuál es el valor del ángulo en el círculo con su arco correspondiente?
+MEDIUM
+La mitad del valor
+Duplicar el valor
+el mismo valor
+arc^2/360
+
+En la siguiente figura, el círculo del centro O1 tiene un radio de 3 cm y el círculo del centro O2 de 7 cm. ¿Cuál es la longitud de O1O2? 
+HARD
+10 cm
+4 cm
+8 cm
+11,5 cm
+figure1.png
+En la siguiente figura, el círculo del centro O1 tiene un radio de 5 cm y el círculo del centro O2 de 14 cm. ¿Cuál es la longitud de O1O2? 
+HARD
+9 cm
+19 cm
+10 cm
+4 cm
+figure2.png
+En la siguiente figura, las tangentes t1 y t2 intersecan el círculo en T1 y T2, respectivamente. ¿Cuál es la relación entre AT1 y AT2?
+HARD
+AT1=AT2
+AT1 es perpendicular a AT2
+AT1 || AT2
+AT1+AT2=2R, donde R es el radio del círculo
+figure3.png
+En un triángulo equilátero, el radio del círculo inscrito tiene la siguiente fórmula (a representa la longitud de los lados):
+HARD
+A*SQRT(3)/6
+a^2*sqrt(3)/4
+a^2*sqrt(6)/2
+A/2
+
+En un triángulo equilátero, el radio del círculo circunscrito tiene la siguiente fórmula:
+HARD
+A*SQRT(3)/3
+2a/3
+a^2*sqrt(3)/4
+A*SQRT(3)/4
+
+Los mediadores d1 y d2 de un triángulo DEF se cruzan en el punto B. ¿Qué propiedad tiene el punto B?
+EASY
+Es el centro del círculo circunscrito correspondiente a DEF.
+Es el centro del círculo inscrito correspondiente a DEF.
+Es el MEDIUM de la línea EF.
+Es el centroide del triángulo DEF.
+
+Las bisectrices AA1 y BB1 del triángulo ABC se cruzan en el punto S. ¿Qué punto de propiedad tiene S?
+EASY
+Es el centro del círculo inscrito correspondiente a ABC.
+Es el centro del círculo circunscrito correspondiente a ABC.
+Es el punto final de la mediana que comienza en C.
+Siempre cae en el lado BC.
+
+La frase que describe correctamente la relación entre los círculos en la imagen de abajo es:
+MEDIUM
+Los círculos son externamente tangentes.
+Los círculos son internamente tangentes.
+Los círculos tienen dos puntos en común.
+Los círculos son externos entre sí.
+figure10.png
+La frase que describe correctamente la relación entre los círculos en la imagen de abajo es:
+MEDIUM
+Los círculos son secantes.
+Los círculos son internamente tangentes.
+Los círculos no tienen puntos comunes.
+Los círculos tienen el mismo centro.
+figure11.png
+La frase que describe correctamente la relación entre los círculos en la imagen de abajo es:
+MEDIUM
+Los círculos son concéntricos.
+El anillo tiene una superficie igual a 0.
+Los círculos tienen superficies iguales.
+Los círculos son internamente tangentes.
+figure12.png
+La frase que describe correctamente la relación entre los círculos en la imagen de abajo es:
+MEDIUM
+Los círculos son internamente tangentes.
+Los círculos son externamente tangentes.
+Los círculos tienen radios iguales.
+Los círculos no están en el mismo plano.
+figure13.png
+La frase que describe correctamente la relación entre la línea y el círculo de abajo es:
+MEDIUM
+La recta es tangente al círculo.
+La línea es paralela al círculo.
+La línea y el círculo no son coplanares.
+La línea y el círculo no tienen puntos comunes.
+figure7.png
+La frase que describe correctamente la relación entre la línea y el círculo de abajo es:
+MEDIUM
+La línea es secante al círculo.
+La línea es externa al círculo.
+La línea y el círculo tienen una infinidad de puntos comunes.
+La recta determina tres sectores en el círculo.
+figure8.png
+Las palabras que completan correctamente la frase ''Un ____ es un caso particular de ___ que pasa por el centro del círculo.'' es:
+EASY
+diámetro, acorde
+radio, acorde
+acorde, diámetro
+radio, diámetro
+
+¿Cuántos ejes de simetría tiene un círculo?
+EASY
+infinidad
+8
+1
+4
+
+¿Cuál es el valor del ángulo BAC en la siguiente figura, dado que BC es un diámetro?
+MEDIUM
+90 grados
+60 grados
+180 grados
+75 grados
+figure4.png
+¿Cuál es el valor del ángulo ABC en la siguiente figura, dado que BC es un diámetro y AB = AC?
+MEDIUM
+45 grados
+30 grados
+90 grados
+80 grados
+
+¿Cuál es la relación entre un triángulo y su círculo?
+MEDIUM
+Los lados son tangentes al círculo.
+Los lados son secantes al círculo.
+Tienen el mismo perímetro.
+El área del círculo es la mitad del área del triángulo.
+
+Si DEFG es un cuadrilátero circunscrito, ¿cuál es la relación entre sus lados?
+HARD
+DE+FG=DG+EF
+DE-FG=DG-EF
+DE+FG+DG=EF
+DE=FG/2,EF/2=DG
+
+Si XYZW es un cuadrilátero circunscrito, ¿cuál es la relación entre sus ángulos?
+HARD
+X+Z=Y+W
+X*Y=Z*W
+X-Y=Z-W
+X+Y+Z+W=180
+
+¿Cómo se llaman dos círculos que tienen el mismo centro?
+MEDIUM
+concéntrico
+perpendicular
+interpolado
+centrado
+
+En la siguiente figura, el color rojo marca un _____, el color verde un ____ y el color azul un ___.
+EASY
+acorde, sector, segmento
+diámetro,segmento,semicírculo
+acorde, corte, segmento
+segmento,acorde,sector
+figure6.png
+¿Cuál es el nombre del área delimitada por dos círculos concéntricos?
+HARD
+anillo
+dónut
+anillo
+elipse
+
+¿Cuál es el radio y la dirección del círculo trigonométrico?
+HARD
+r=1,en sentido contrario a las agujas del reloj
+r=pi,en el sentido de las agujas del reloj
+r = 1, en el sentido de las agujas del reloj
+r=cot(PI),en sentido contrario a las agujas del reloj
+
+Si el radio de un círculo se incrementa cuatro veces, ¿cuántas veces aumenta el área?
+HARD
+16 momentos
+2 veces
+4 momentos
+8 momentos
+
+Si el radio de un círculo se reduce tres veces, ¿cuántas veces disminuye el área?
+HARD
+9 momentos
+3 momentos
+27 momentos
+2 veces
+
+La frase que describe correctamente la relación entre la línea y el círculo de abajo es:
+MEDIUM
+La línea es externa al círculo.
+La línea es paralela al círculo.
+El círculo y la recta no son coplanares.
+La línea y el círculo tienen al menos un punto en común.
+figure9.png
